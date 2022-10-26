@@ -1,8 +1,8 @@
-# ForecastThi 😉
+# Dreamred challenger 😉
 
 ## About
 
-A weather webapp to follow your city's forecast.
+A Search app to find github repositories.
 
 ## Screenshots
 
@@ -13,7 +13,6 @@ A weather webapp to follow your city's forecast.
 
 ## Features
 
-- API usage by serverless.
 - Layout based on mobile users.
 - micro-front-end architecture.
 - Unitary test with jest and storybook.
@@ -40,10 +39,10 @@ After created your account on the Weather org you'll have to get your private ap
 
 ```bash
 # Clone this project
-$ git clone git@github.com:Thiago-spart/tds-challenger.git
+$ git clone git@github.com:Thiago-spart/dreamred-challenger.git
 
 # Access
-$ cd tds-challenger
+$ cd dreamred-challenger
 
 # Install dependencies
 $ npm i
