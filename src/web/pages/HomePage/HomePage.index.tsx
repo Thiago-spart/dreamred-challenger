@@ -109,7 +109,7 @@ export const HomePage: React.FC = () => {
 					<RepositoryCard
 						key={repository.name}
 						title={repository.name}
-						url={repository.url}
+						url={repository.html_url}
 						description={repository.description}
 						stargazersCount={repository.stargazers_count}
 					/>
